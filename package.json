@@ -1,0 +1,15 @@
+{
+  "name": "prscanner",
+  "version": "1.0.0",
+  "description": "A simple project to use a photoresistor to scan 360 degrees for a elementary visoon system and integerating into node",
+  "main": "server.ls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Jordaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "serialport": "^2.0.6"
+  }
+}
